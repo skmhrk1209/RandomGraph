@@ -62,7 +62,7 @@ void RandomGraph::setup()
 			   {"nodeRadius", 0.1},
 			   {"numNodes", 100},
 			   {"radiusMean", 100.0},
-			   {"radiusStd", 10.0},
+			   {"radiusStd", 20.0},
 			   {"edgeProbMin", 0.05},
 			   {"edgeProbMax", 0.2},
 			   {"numEdgesMin", 1},
